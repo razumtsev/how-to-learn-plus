@@ -8,4 +8,4 @@
 * Семантическое наимаенование тэгов
 * Flexbox
 
-[посмотреть](https://razumtsev.github.io/how-to-learn/) работу
+[посмотреть](https://razumtsev.github.io/how-to-learn-plus/) работу
