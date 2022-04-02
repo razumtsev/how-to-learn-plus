@@ -7,6 +7,9 @@
 /*   -= Page =-   */
 @import url(../blocks/page/page.css);
 
+/*   -= Rotation =-   */
+@import url(../blocks/rotation/rotation.css);
+
 /*   -= Logo =-   */
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -95,6 +98,7 @@
 
 /*   -= Kaufman =-   */
 @import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 /*   -= Resources =-   */
 @import url(../blocks/resources/resources.css);
